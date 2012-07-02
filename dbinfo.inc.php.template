@@ -1,0 +1,15 @@
+<?php
+
+//	Demo file
+
+$host = "localhost";		// Database server
+
+$user = "Pixelbar";		// database user namem
+
+$pass = "Pixelbar-Password";	// database user password
+
+$db = "Coffee";			// database name
+
+$index = "1";
+
+?>
