@@ -2,7 +2,7 @@
 
 //	Demo file
 
-$host = "localhost";		// Database server
+$host = "localhost";		// database server
 
 $user = "Pixelbar";		// database user namem
 
